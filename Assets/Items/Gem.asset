@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a926a6615eb10304b8be02b6f2ccd20b, type: 3}
-  m_Name: Helmet
+  m_Name: Gem
   m_EditorClassIdentifier: 
-  ItemName: Helmet
-  Icon: {fileID: 21300000, guid: 3b7a5332aac5031418979993cda7fe49, type: 3}
-  StrengthBonus: 3
+  ItemName: Gem
+  Icon: {fileID: 21300000, guid: f6589f18cda3811489ebdbe35429fce6, type: 3}
+  StrengthBonus: 0
   AgilityBonus: 0
-  IntelligenceBonus: 0
-  VitalityBonus: 3
+  IntelligenceBonus: 3
+  VitalityBonus: 0
   StrengthPercentBonus: 0
-  AgilityPercentBonus: 0
+  AgilityPercentBonus: 0.2
   IntelligencePercentBonus: 0
-  VitalityPercentBonus: 0
-  EquipmentType: 0
+  VitalityPercentBonus: 0.15
+  EquipmentType: 6
