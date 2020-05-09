@@ -16,6 +16,7 @@ public class Inventory : MonoBehaviour
         {
             itemSlots[i].OnRightClickEvent += OnItemRightClickedEvent;
         }
+        RefreshUI();
     }
 
     private void OnValidate()
